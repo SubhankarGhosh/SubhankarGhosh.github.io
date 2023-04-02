@@ -22,4 +22,4 @@ author_profile: true
 2022
 ======
 * Towards a Tighter Bound on Possible-Rendezvous Areas: Preliminary Results. Arun Sharma, Jayant Gupta and Subhankar Ghosh. In Proceedings of the 30th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2022.
-* Towards geographically robust statistically significant regional co-location pattern detection. Subhankar Ghosh, Jayant Gupta, Arun Sharma, Shuai An. In 5th ACM SIGSPATIAL International Workshop on Geospatial Simulation (GeoSim), ACM, 2022.
+* Towards geographically robust statistically significant regional co-location pattern detection. Subhankar Ghosh, Jayant Gupta, Arun Sharma, Shuai An and Shashi Shekhar. In 5th ACM SIGSPATIAL International Workshop on Geospatial Simulation (GeoSim), ACM, 2022.

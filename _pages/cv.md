@@ -11,22 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of Minnesota (ongoing)
+* M.S. in Computer Science, University of Minnesota
+* B.E. in Computer Science, B.M.S. College of Engineering
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-present: Research Assistant
+  * University of Minnesota
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<!-- [//]: # (  * Duties included: Merging pull requests)
+
+[//]: # (  * Supervisor: Professor Hub) -->
   
+* 2018-2021: Teaching Assistant
+  * University of Minnesota
+
+<!-- [//]: # (  * Duties included: Tagging issues)
+
+[//]: # (  * Supervisor: Professor Git) -->
+
+* 2015-2016: Software Test Engineer
+  * Oracle India
+<!--   
 Skills
 ======
 * Skill 1
@@ -56,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

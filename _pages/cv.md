@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Minnesota (ongoing)
+* Ph.D. in Computer Science, University of Minnesota (ongoing)
 * M.S. in Computer Science, University of Minnesota
 * B.E. in Computer Science, B.M.S. College of Engineering
 

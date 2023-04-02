@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Subhankar Ghosh"
-  avatar           : "/images/S-Ghosh-BW-thumbnail-300x297.png"
+  avatar           : "S-Ghosh-BW-thumbnail-300x297.png"
   bio              : "Computer Science PhD student at University of Minnesota, Twin Cities"
-  location         : "Minneapolis, Minnesota, USA"
+  location         : "Minneapolis, Minnesota"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7cz_zncAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   # instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   # lastfm           :
-  linkedin         : "https://www.linkedin.com/in/subhankargsh/"
+  linkedin         : "subhankargsh"
   # orcid            : "http://orcid.org/yourorcidurl"
   # pinterest        :
   # soundcloud       :
@@ -113,7 +113,7 @@ author:
   # vine             :
   # weibo            :
   # xing             :
-  youtube          : "https://www.youtube.com/user/gshsubhankar"
+  # youtube          : "gshsubhankar"
   # wikipedia        :
 
 

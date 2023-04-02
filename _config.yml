@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Subhankar Ghosh"
-  avatar           : "images/S-Ghosh-BW-thumbnail-300x297.png"
+  avatar           : "/images/S-Ghosh-BW-thumbnail-300x297.png"
   bio              : "Computer Science PhD student at University of Minnesota, Twin Cities"
   location         : "Minneapolis, Minnesota, USA"
   # employer         :

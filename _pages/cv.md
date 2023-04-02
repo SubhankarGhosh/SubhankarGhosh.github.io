@@ -34,8 +34,8 @@ Work experience
 
 * 2015-2016: Software Test Engineer
   * Oracle India
-<!--   
-Skills
+  
+<!-- Skills
 ======
 * Skill 1
 * Skill 2

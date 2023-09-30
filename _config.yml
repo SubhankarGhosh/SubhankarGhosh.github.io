@@ -86,7 +86,7 @@ author:
   location         : "Minneapolis, Minnesota"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=7cz_zncAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7cz_zncAAAAJ&view_op=list_works&sortby=pubdate"
   email            : gsh(first_name_lower_case)@gmail.com
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :

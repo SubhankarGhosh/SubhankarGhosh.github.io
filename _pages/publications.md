@@ -17,7 +17,7 @@ author_profile: true
 
 2023
 ======
-* Reducing Uncertainty in Sea-level Rise Prediction: A Spatial-variability-aware Approach. **Subhankar Ghosh**, Shuai An, Arun Sharma, Jayant Gupta, Shashi Shekhar, Aneesh Subramanian. I-GUIDE Forum, 2023.
+* Reducing Uncertainty in Sea-level Rise Prediction: A Spatial-variability-aware Approach. **Subhankar Ghosh**, Shuai An, Arun Sharma, Jayant Gupta, Shashi Shekhar, Aneesh Subramanian. In I-GUIDE Forum, 2023.
 * Reducing False Discoveries in Statistically-Significant Regional-Colocation Mining: A Summary of Results. **Subhankar Ghosh**, Jayant Gupta, Arun Sharma, Shuai An and Shashi Shekhar. In 12th International Conference on Geographic Information Science (GIScience 2023). [Paper](https://drops.dagstuhl.de/opus/volltexte/2023/18898/)
 
 2022

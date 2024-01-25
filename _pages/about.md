@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Subhankar, a Computer Science Ph.D. student at the University of Minnesota, Twin Cities.
+Hi there! I am Subhankar, a Computer Science Ph.D. candidate at the University of Minnesota, Twin Cities.
 
 I am fortunate to be advised by [Professor Shashi Shekhar](https://www-users.cse.umn.edu/~shekhar/) and I am a member of the [Spatial Computing Research Group](http://www.spatial.cs.umn.edu/).
 

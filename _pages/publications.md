@@ -15,6 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+2024
+======
+* Abnormal Trajectory Gap Detection. Arun Sharma, **Subhankar Ghosh**, Shashi Shekhar. In Transactions on Intelligent Systems and Technology (TIST), 2024.
+
 2023
 ======
 * Reducing Uncertainty in Sea-level Rise Prediction: A Spatial-variability-aware Approach. **Subhankar Ghosh**, Shuai An, Arun Sharma, Jayant Gupta, Shashi Shekhar, Aneesh Subramanian. In I-GUIDE Forum, 2023. [Paper](https://docs.lib.purdue.edu/iguide/2023/presentations/3/)

@@ -17,7 +17,7 @@ author_profile: true
 
 2024
 ======
-* Towards Statistically Significant Taxonomy Aware Co-location Pattern Detection. **Subhankar Ghosh**, Arun Sharma, Jayant Gupta, Shashi Shekhar. In The 16th Conference on Spatial Information Theory (COSIT), 2024 (Short Paper, Oral).
+* Towards Statistically Significant Taxonomy Aware Co-location Pattern Detection. **Subhankar Ghosh**, Arun Sharma, Jayant Gupta, Shashi Shekhar. In 16th Conference on Spatial Information Theory (COSIT), 2024. (Oral Short Paper)
 * Abnormal Trajectory Gap Detection. Arun Sharma, **Subhankar Ghosh**, Shashi Shekhar. In Transactions on Intelligent Systems and Technology (TIST), 2024.
 
 2023

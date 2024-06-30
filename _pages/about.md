@@ -14,13 +14,12 @@ I am fortunate to be advised by [Professor Shashi Shekhar](https://www-users.cse
 
 I am also a Graduate Assistant at [iHARP: NSF HDR Institute for Harnessing Data and Model Revolution in the Polar Regions](https://iharp.umbc.edu/people/), where our primary goal is to reduce the uncertainty in sea level rise prediction arising from the ice sheet melt in the polar regions.
 
-My current projects are mainly focussed at factors that reduce the uncertainty in regional sea level rise prediction.
-
+My projects are mainly focused around factors that reduce the uncertainty in regional sea level rise prediction.
 Some of the projects that I am currently working on include:
 * Spatial variability aware downscaling of climate variables using **Generative Models**
 * **Climate Model Combination strategies**
 * **Causal discovery** of factors influencing climate variables
-* **Spatio-temporal anomaly detection** in climate variables
+* **Spatio-temporal Anomaly Detection** in climate variables
 
 In the recent past I have worked on spatial **pattern mining** such as regional co-location patterns, taxonomy-aware co-location patterns, and **statistical techniques** to reduce false discoveries in the **pattern detection** process.
 

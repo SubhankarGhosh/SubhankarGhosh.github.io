@@ -16,7 +16,7 @@ I am a Graduate Assistant at [iHARP: NSF HDR Institute for Harnessing Data and M
 
 
 
-Some of my **current projects** include:
+My **current projects** include:
 * Spatial variability aware downscaling of climate variables using **Generative Models**
 * **Climate Model Combination strategies**
 * **Causal discovery** of factors influencing climate variables

@@ -21,7 +21,7 @@ Some of my current projects include:
 * Spatio-temporal **Anomaly Detection** in climate variables
 
 
-In the recent past I have worked on spatial **pattern mining** such as regional co-location patterns, taxonomy-aware co-location patterns, and **statistical techniques** to reduce false discoveries in the **pattern detection** process.
+In the recent past I have worked on spatial **pattern mining** such as regional co-location patterns, taxonomy-aware co-location patterns, and **statistical techniques** to reduce false discoveries in the pattern detection process.
 
 We are also in the process of releasing our **Pan-HDR Machine Learning Challenge** focused on [Spatio-temporal Anomaly Detection](https://www.nsfhdr.org/mlchallenge). We are excited to host our upcoming workshop in September 2024 and look forward to your participation.
 

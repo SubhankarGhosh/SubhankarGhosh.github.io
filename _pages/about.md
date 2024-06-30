@@ -12,7 +12,7 @@ Hi there! I am Subhankar, a **Computer Science Ph.D. candidate** at the **Univer
 
 I am fortunate to be advised by [Professor Shashi Shekhar](https://www-users.cse.umn.edu/~shekhar/) and I am a member of the [Spatial Computing Research Group](http://www.spatial.cs.umn.edu/). I also work closely with [Professor Aneesh Subramanian](https://www.colorado.edu/atoc/aneesh-subramanian-hehimhis).
 
-I am also a Graduate Assistant at [iHARP: NSF HDR Institute for Harnessing Data and Model Revolution in the Polar Regions](https://iharp.umbc.edu/people/), where our primary goal is to reduce the uncertainty in sea level rise prediction arising from the ice sheet melt in the polar regions.
+I am a Graduate Assistant at [iHARP: NSF HDR Institute for Harnessing Data and Model Revolution in the Polar Regions](https://iharp.umbc.edu/people/), where our primary goal is to reduce the uncertainty in sea level rise prediction arising from the ice sheet melt in the polar regions.
 
 My projects are mainly focused around factors that reduce the uncertainty in regional sea level rise prediction.
 Some of the projects that I am currently working on include:

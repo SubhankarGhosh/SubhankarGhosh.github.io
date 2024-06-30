@@ -17,16 +17,16 @@ author_profile: true
 
 2024
 ======
-* Spatial variability aware downscaling of regional sea-level rise data using <ins>Conditional Diffusion Models</ins>. (Under review)
-* Towards Statistically Significant Taxonomy Aware Co-location Pattern Detection. **Subhankar Ghosh**, Arun Sharma, Jayant Gupta, Shashi Shekhar. In 16th Conference on Spatial Information Theory (COSIT), 2024. (Oral Short Paper)
-* Abnormal Trajectory Gap Detection. Arun Sharma, **Subhankar Ghosh**, Shashi Shekhar. In Transactions on Intelligent Systems and Technology (TIST), 2024.
+* **Spatial variability-aware downscaling** of regional sea-level rise data using **Conditional Diffusion Models**. (Under review)
+* Towards Statistically Significant Taxonomy Aware Co-location **Pattern Detection**. <ins>Subhankar Ghosh</ins>, Arun Sharma, Jayant Gupta, Shashi Shekhar. In 16th Conference on Spatial Information Theory (COSIT), 2024. (Oral Short Paper)
+* Abnormal **Trajectory Gap Detection**. Arun Sharma, <ins>Subhankar Ghosh</ins>, Shashi Shekhar. In Transactions on Intelligent Systems and Technology (TIST), 2024.
 
 2023
 ======
-* Reducing Uncertainty in Sea-level Rise Prediction: A Spatial-variability-aware Approach. **Subhankar Ghosh**, Shuai An, Arun Sharma, Jayant Gupta, Shashi Shekhar, Aneesh Subramanian. In I-GUIDE Forum, 2023. [Paper](https://docs.lib.purdue.edu/iguide/2023/presentations/3/)
-* Reducing False Discoveries in Statistically-Significant Regional-Colocation Mining: A Summary of Results. **Subhankar Ghosh**, Jayant Gupta, Arun Sharma, Shuai An and Shashi Shekhar. In 12th International Conference on Geographic Information Science (GIScience 2023). [Paper](https://drops.dagstuhl.de/opus/volltexte/2023/18898/)
+* Reducing **Uncertainty** in Sea-level Rise **Prediction**: A Spatial-variability-aware Approach. <ins>Subhankar Ghosh</ins>, Shuai An, Arun Sharma, Jayant Gupta, Shashi Shekhar, Aneesh Subramanian. In I-GUIDE Forum, 2023. [Paper](https://docs.lib.purdue.edu/iguide/2023/presentations/3/)
+* Reducing False Discoveries in Statistically-Significant Regional-**Colocation Mining**: A Summary of Results. <ins>Subhankar Ghosh</ins>, Jayant Gupta, Arun Sharma, Shuai An and Shashi Shekhar. In 12th International Conference on Geographic Information Science (GIScience 2023). [Paper](https://drops.dagstuhl.de/opus/volltexte/2023/18898/)
 
 2022
 ======
-* Towards a Tighter Bound on Possible-Rendezvous Areas: Preliminary Results. Arun Sharma, Jayant Gupta and **Subhankar Ghosh**. In Proceedings of the 30th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2022. [Paper](https://dl.acm.org/doi/abs/10.1145/3557915.3561033)
-* Towards geographically robust statistically significant regional co-location pattern detection. **Subhankar Ghosh**, Jayant Gupta, Arun Sharma, Shuai An and Shashi Shekhar. In 5th ACM SIGSPATIAL International Workshop on Geospatial Simulation (GeoSim), ACM, 2022. [Paper](https://dl.acm.org/doi/abs/10.1145/3557989.3566158)
+* Towards a Tighter Bound on Possible-Rendezvous Areas: Preliminary Results. Arun Sharma, Jayant Gupta and <ins>Subhankar Ghosh</ins>. In Proceedings of the 30th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2022. [Paper](https://dl.acm.org/doi/abs/10.1145/3557915.3561033)
+* Towards geographically robust statistically significant regional co-location **pattern detection**. <ins>Subhankar Ghosh</ins>, Jayant Gupta, Arun Sharma, Shuai An and Shashi Shekhar. In 5th ACM SIGSPATIAL International Workshop on Geospatial Simulation (GeoSim), ACM, 2022. [Paper](https://dl.acm.org/doi/abs/10.1145/3557989.3566158)

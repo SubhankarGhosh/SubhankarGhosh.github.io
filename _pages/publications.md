@@ -17,9 +17,9 @@ author_profile: true
 
 2024
 ======
-* **Spatial variability-aware downscaling** of regional sea-level rise data using **Conditional Diffusion Models**. (Under review)
-* Towards Statistically Significant Taxonomy Aware Co-location **Pattern Detection**. <ins>Subhankar Ghosh</ins>, Arun Sharma, Jayant Gupta, Shashi Shekhar. In 16th Conference on Spatial Information Theory (COSIT), 2024. (Oral Short Paper)
-* Abnormal **Trajectory Gap Detection**. Arun Sharma, <ins>Subhankar Ghosh</ins>, Shashi Shekhar. In Transactions on Intelligent Systems and Technology (TIST), 2024.
+* **Spatial variability-aware downscaling** of sea-level rise data using **Conditional Diffusion Models**. (Under review)
+* Towards Statistically Significant Taxonomy Aware Co-location **Pattern Detection**. <ins>Subhankar Ghosh</ins>, Arun Sharma, Jayant Gupta, Shashi Shekhar. In 16th Conference on Spatial Information Theory (COSIT), 2024. (Oral Short [Paper](https://arxiv.org/abs/2407.00317))
+* Abnormal **Trajectory Gap Detection**. Arun Sharma, <ins>Subhankar Ghosh</ins>, Shashi Shekhar. In Transactions on Intelligent Systems and Technology (TIST), 2024. [Paper](https://dl.acm.org/doi/abs/10.1145/3673235)
 
 2023
 ======

@@ -18,8 +18,8 @@ I am a Graduate Assistant at [iHARP: NSF HDR Institute for Harnessing Data and M
   <ul class="project-list">
     <li>Spatial variability-aware downscaling of climate variables using <b>Generative Models</b></li>
     <li>Adaptive Climate <b>Model Combination</b> strategies</li>
-    <li><b>Causal discovery** of factors influencing climate variables</b></li>
-    <li>Spatio-temporal <b>Anomaly Detection** in climate variables</b></li>
+    <li><b>Causal discovery</b> of factors influencing climate variables</li>
+    <li>Spatio-temporal <b>Anomaly Detection</b> in climate variables</li>
   </ul>
 </div>
 

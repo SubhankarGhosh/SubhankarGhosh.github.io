@@ -3,20 +3,22 @@
 
 .project-section {
   .project-intro {
-    margin-bottom: 0.08em;  // Reduce space between intro and list
+    margin-bottom: 0.2em !important;
   }
 
-  .project-list {
-    margin-top: 0;  // Remove default top margin of list
-    margin-bottom: 1em;  // Increase space after the list
+  .project-list.compact-list {
+    margin-top: 0 !important;
+    margin-bottom: 1em !important;
+    padding-left: 20px !important;
 
     li {
-      margin-bottom: 0.05em;  // Reduce space between list items
-      line-height: 1.0;  // Reduce line height for closer spacing
+      margin: 0 !important;
+      padding: 0 !important;
+      line-height: 1.2 !important;
+    }
+
+    li + li {
+      margin-top: 0.1em !important;
     }
   }
-}
-
-.past-work {
-  margin-top: 0em;  // Increase space before this section
 }

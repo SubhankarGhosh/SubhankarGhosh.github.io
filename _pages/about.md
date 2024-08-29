@@ -7,15 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-// ... existing content ...
-
-## Additional Information
-
-[View My Resume]({{ site.author.resume }}){: .btn .btn--info}
-
-// ... rest of the content ...
-
 Hi there! I am Subhankar, a **Computer Science Ph.D. candidate** at the **University of Minnesota, Twin Cities**.
 
 I am fortunate to be advised by [Professor Shashi Shekhar](https://www-users.cse.umn.edu/~shekhar/) and I am a member of the [Spatial Computing Research Group](http://www.spatial.cs.umn.edu/). I also work closely with [Professor Aneesh Subramanian](https://www.colorado.edu/atoc/aneesh-subramanian-hehimhis).
@@ -33,6 +24,8 @@ My **current projects** include:
 
 
 In the recent past, I have worked on spatial **pattern mining** such as regional co-location patterns, taxonomy-aware co-location patterns, and **statistical techniques** to reduce false discoveries in the pattern detection process.
+
+[View My Resume]({{ site.author.resume }}){: .btn .btn--info}
 
 We are in the process of releasing our [Pan-HDR Machine Learning Challenge](https://www.nsfhdr.org/mlchallenge) focused on **Spatio-temporal Anomaly Detection**. We are excited to host our upcoming [Workshop in September 2024](https://indico.cern.ch/event/1364455/) and look forward to your participation.
 

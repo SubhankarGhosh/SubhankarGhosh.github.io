@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+// ... existing content ...
+
+## Additional Information
+
+[View My Resume]({{ site.author.resume }}){: .btn .btn--info}
+
+// ... rest of the content ...
+
 Hi there! I am Subhankar, a **Computer Science Ph.D. candidate** at the **University of Minnesota, Twin Cities**.
 
 I am fortunate to be advised by [Professor Shashi Shekhar](https://www-users.cse.umn.edu/~shekhar/) and I am a member of the [Spatial Computing Research Group](http://www.spatial.cs.umn.edu/). I also work closely with [Professor Aneesh Subramanian](https://www.colorado.edu/atoc/aneesh-subramanian-hehimhis).

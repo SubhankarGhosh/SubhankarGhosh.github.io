@@ -14,17 +14,17 @@ I am fortunate to be advised by [Professor Shashi Shekhar](https://www-users.cse
 I am a Graduate Assistant at [iHARP: NSF HDR Institute for Harnessing Data and Model Revolution in the Polar Regions](https://iharp.umbc.edu/people/), where our primary goal is to reduce the uncertainty in sea level rise prediction arising from the ice sheet melt in the polar regions.
 
 <div class="project-section">
-  <p class="project-intro">My **current projects** include:</p>
+  <p class="project-intro">My <b>current projects</b> include:</p>
   <ul class="project-list">
-    <li>Spatial variability-aware downscaling of climate variables using **Generative Models**</li>
-    <li>Adaptive Climate **Model Combination** strategies</li>
-    <li>**Causal discovery** of factors influencing climate variables</li>
-    <li>Spatio-temporal **Anomaly Detection** in climate variables</li>
+    <li>Spatial variability-aware downscaling of climate variables using <b>Generative Models</b></li>
+    <li>Adaptive Climate <b>Model Combination</b> strategies</li>
+    <li><b>Causal discovery** of factors influencing climate variables</b></li>
+    <li>Spatio-temporal <b>Anomaly Detection** in climate variables</b></li>
   </ul>
 </div>
 
 <div class="past-work">
-  In the recent past, I have worked on spatial **pattern mining** such as regional co-location patterns, taxonomy-aware co-location patterns, and **statistical techniques** to reduce false discoveries in the pattern detection process.
+  In the recent past, I have worked on spatial <b>pattern mining</b> such as regional co-location patterns, taxonomy-aware co-location patterns, and <b>statistical techniques</b> to reduce false discoveries in the pattern detection process.
 </div>
 
 [//]: # (My **current projects** include:)

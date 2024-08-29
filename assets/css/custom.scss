@@ -9,6 +9,11 @@
   .project-list {
     margin-top: 0;  // Remove default top margin of list
     margin-bottom: 1em;  // Increase space after the list
+
+    li {
+      margin-bottom: 0.1em;  // Reduce space between list items
+      line-height: 1.3;  // Reduce line height for closer spacing
+    }
   }
 }
 

@@ -27,6 +27,7 @@ I am a Graduate Assistant at [iHARP: NSF HDR Institute for Harnessing Data and M
   In the recent past, I have worked on spatial <b>pattern mining</b> such as regional co-location patterns, taxonomy-aware co-location patterns, and <b>statistical techniques</b> to reduce false discoveries in the pattern detection process.
 </div>
 
+
 [View My Resume]({{ site.author.resume }}){: .btn .btn--info}
 
 We are in the process of releasing our [Pan-HDR Machine Learning Challenge](https://www.nsfhdr.org/mlchallenge) focused on **Spatio-temporal Anomaly Detection**. We are excited to host our upcoming [Workshop in September 2024](https://indico.cern.ch/event/1364455/) and look forward to your participation.

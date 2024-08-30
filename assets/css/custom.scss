@@ -1,36 +1,50 @@
 ---
 ---
+// Target the entire page
 .about-page {
   .page__content {
-    margin-top: 0;
-    padding-top: 0;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  // Target potential wrappers
+  .wrapper, .page__inner-wrap {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  // Target the main content area
+  #main {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  // Target any potential article wrappers
+  article.page {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
   }
 }
 
 .intro-section {
-  margin-top: 0;
-  padding-top: 0;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
   margin-bottom: 2em;
 
-  h1 {
-    font-size: 2.5em;
-    margin-bottom: 0.5em;
+  h2.intro-heading.custom-intro {
+    font-size: 1.8em !important;
+    font-weight: bold !important;
+    color: #333 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0.5em !important;
+    line-height: 1.2 !important;
+    letter-spacing: -0.02em !important;
   }
 
   .highlight {
     font-size: 1.2em;
     color: #4a4a4a;
   }
-}
-
-h2.intro-heading.custom-intro {
-  font-size: 2.0em !important;
-  font-weight: bold !important;
-  color: #333 !important;
-  margin-top: 0 !important;
-  margin-bottom: 0.5em !important;
-  line-height: 1.2 !important;
-  letter-spacing: -0.02em !important;
 }
 
 .advisors-section, .work-section {

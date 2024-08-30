@@ -1,8 +1,9 @@
 ---
 permalink: /
-title: ""  # Changed from "About me" to an empty string
+title: ""
 excerpt: "About me"
 author_profile: true
+classes: about-page
 redirect_from: 
   - /about/
   - /about.html

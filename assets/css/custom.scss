@@ -1,6 +1,15 @@
 ---
 ---
+.about-page {
+  .page__content {
+    margin-top: 0;
+    padding-top: 0;
+  }
+}
+
 .intro-section {
+  margin-top: 0;
+  padding-top: 0;
   margin-bottom: 2em;
 
   h1 {
@@ -14,13 +23,14 @@
   }
 }
 
-.intro-heading {
-  font-size: 2.4em;
-  font-weight: bold;
-  color: #333;
-  margin-bottom: 0.5em;
-  line-height: 1.2;
-  letter-spacing: -0.02em;
+h2.intro-heading.custom-intro {
+  font-size: 2.0em !important;
+  font-weight: bold !important;
+  color: #333 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0.5em !important;
+  line-height: 1.2 !important;
+  letter-spacing: -0.02em !important;
 }
 
 .advisors-section, .work-section {
@@ -155,14 +165,4 @@ a.advisor-link, a.group-link, a.work-link, a.event-link {
       text-decoration: underline;
     }
   }
-}
-
-// New, more specific styling for the intro heading
-h2.intro-heading.custom-intro {
-  font-size: 2.4em !important;
-  font-weight: bold !important;
-  color: #333 !important;
-  margin-bottom: 0.5em !important;
-  line-height: 1.2 !important;
-  letter-spacing: -0.02em !important;
 }

@@ -104,8 +104,22 @@ body, html, #page-wrapper, .page__content, .page__inner-wrap, #main, .wrapper, .
 
 .upcoming-section {
   background-color: #f9f9f9;
-  padding: 1em;
+  padding: 0.5em 1em;  // Reduced padding
   border-radius: 5px;
+  margin-top: 1em;  // Add some space above the section
+  margin-bottom: 1em;  // Add some space below the section
+
+  .section-title {
+    margin-top: 0.5em;  // Reduce space above the title
+    margin-bottom: 0.5em;  // Reduce space below the title
+    padding-bottom: 0.3em;  // Reduce padding below the title
+    font-size: 1.2em;  // Slightly smaller font size for the title
+  }
+
+  p {
+    margin-bottom: 0.5em;  // Reduce space below the paragraph
+    line-height: 1.4;  // Slightly reduce line height
+  }
 }
 
 a.advisor-link, a.group-link, a.work-link, a.event-link {

@@ -26,7 +26,7 @@ body, html, #page-wrapper, .page__content, .page__inner-wrap, #main, .wrapper, .
   margin-bottom: 2em;
 
   h2.intro-heading.custom-intro {
-    font-size: 2.4em !important;
+    font-size: 1.8em !important;
     font-weight: bold !important;
     color: #333 !important;
     margin-top: 0 !important;
@@ -102,27 +102,44 @@ body, html, #page-wrapper, .page__content, .page__inner-wrap, #main, .wrapper, .
   }
 }
 
+// Updated Upcoming Events section
 .upcoming-section {
-  background-color: #f9f9f9;
-  padding: 0.5em 1em;  // Reduced padding
-  border-radius: 5px;
-  margin-top: 1em;  // Add some space above the section
-  margin-bottom: 1em;  // Add some space below the section
+  background-color: #f5f5f5;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 20px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 
-  .section-title {
-    margin-top: 0.5em;  // Reduce space above the title
-    margin-bottom: 0.5em;  // Reduce space below the title
-    padding-bottom: 0.3em;  // Reduce padding below the title
-    font-size: 1.2em;  // Slightly smaller font size for the title
+  h2.section-title {
+    font-size: 1.3em;
+    margin: 0 0 12px 0;
+    padding: 0 0 8px 0;
+    border-bottom: 1px solid #ddd;
+    color: #333;
   }
 
   p {
-    margin-bottom: 0.5em;  // Reduce space below the paragraph
-    line-height: 1.4;  // Slightly reduce line height
+    margin: 0;
+    padding: 0;
+    font-size: 0.95em;
+    line-height: 1.5;
+    color: #444;
+  }
+
+  .event-link {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: #004080;
+      text-decoration: underline;
+    }
   }
 }
 
-a.advisor-link, a.group-link, a.work-link, a.event-link {
+a.advisor-link, a.group-link, a.work-link {
   color: #0066cc;
   text-decoration: none;
   transition: color 0.3s ease;

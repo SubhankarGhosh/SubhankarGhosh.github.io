@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""  # Changed from "About me" to an empty string
 excerpt: "About me"
 author_profile: true
 redirect_from: 

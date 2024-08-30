@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p class="intro">Here's a list of my publications.</p>
-
 <div class="publications">
   <h2 class="year">2024</h2>
   <ul class="paper-list">

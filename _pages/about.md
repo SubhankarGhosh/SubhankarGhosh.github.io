@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div class="intro-section">
-  <h1>Hi there! I'm Subhankar</h1>
+  <h2>Hi there! I'm Subhankar</h2>
   <p class="highlight">I'm a <strong>Computer Science Ph.D. candidate</strong> at the <strong>University of Minnesota, Twin Cities</strong>.</p>
 </div>
 
@@ -36,7 +36,7 @@ redirect_from:
   <p>In the recent past, I have worked on spatial <strong>pattern mining</strong> such as regional co-location patterns, taxonomy-aware co-location patterns, and <strong>statistical techniques</strong> to reduce false discoveries in the pattern detection process.</p>
 </div>
 
-<div class="cta-section">
+<div class="cta-section left-aligned">
   <a href="{{ site.author.resume }}" class="btn btn--info">View My Resume</a>
 </div>
 

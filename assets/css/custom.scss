@@ -48,11 +48,14 @@
 
 .cta-section {
   margin: 2em 0;
-  text-align: center;
+
+  &.left-aligned {
+    text-align: left;  // Aligns the content to the left
+  }
 
   .btn {
-    font-size: 1em;  // Reduced from 1.2em
-    padding: 0.5em 1em;  // Reduced from 0.75em 1.5em
+    font-size: 1em;
+    padding: 0.5em 1em;
   }
 }
 

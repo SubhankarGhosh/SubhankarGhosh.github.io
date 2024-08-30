@@ -15,7 +15,7 @@
 }
 
 .intro-heading {
-  font-size: 2.4em;  // Increased from 2.2em
+  font-size: 2.4em;
   font-weight: bold;
   color: #333;
   margin-bottom: 0.5em;
@@ -155,4 +155,14 @@ a.advisor-link, a.group-link, a.work-link, a.event-link {
       text-decoration: underline;
     }
   }
+}
+
+// New, more specific styling for the intro heading
+h2.intro-heading.custom-intro {
+  font-size: 2.4em !important;
+  font-weight: bold !important;
+  color: #333 !important;
+  margin-bottom: 0.5em !important;
+  line-height: 1.2 !important;
+  letter-spacing: -0.02em !important;
 }

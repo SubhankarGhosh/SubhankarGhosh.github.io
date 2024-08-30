@@ -37,7 +37,7 @@ redirect_from:
 </div>
 
 <div class="cta-section">
-  <a href="{{ site.author.resume }}" class="btn btn--info btn--large">View My Resume</a>
+  <a href="{{ site.author.resume }}" class="btn btn--info">View My Resume</a>
 </div>
 
 <div class="upcoming-section">

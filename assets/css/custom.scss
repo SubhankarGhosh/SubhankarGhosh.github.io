@@ -50,9 +50,9 @@
   margin: 2em 0;
   text-align: center;
 
-  .btn--large {
-    font-size: 1.2em;
-    padding: 0.75em 1.5em;
+  .btn {
+    font-size: 1em;  // Reduced from 1.2em
+    padding: 0.5em 1em;  // Reduced from 0.75em 1.5em
   }
 }
 

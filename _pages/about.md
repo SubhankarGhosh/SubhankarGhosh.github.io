@@ -27,8 +27,8 @@ redirect_from:
   <ul class="project-list">
     <li><i class="fas fa-chart-line"></i> Spatial variability-aware downscaling of climate variables using <strong>Generative Models</strong></li>
     <li><i class="fas fa-code-branch"></i> Adaptive Climate <strong>Model Combination</strong> strategies</li>
-    <li><i class="fas fa-search"></i> <strong>Causal discovery</strong> of factors influencing climate variables</li>
     <li><i class="fas fa-exclamation-triangle"></i> Spatio-temporal <strong>Anomaly Detection</strong> in climate variables</li>
+    <li><i class="fas fa-search"></i> <strong>Causal discovery</strong> of factors influencing climate variables</li>
   </ul>
 </div>
 

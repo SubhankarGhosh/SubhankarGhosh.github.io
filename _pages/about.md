@@ -43,5 +43,7 @@ redirect_from:
 
 <div class="upcoming-section">
   <h2 class="section-title">Upcoming Events</h2>
-  <p>We are in the process of releasing our <a href="https://www.nsfhdr.org/mlchallenge" class="event-link">Pan-HDR Machine Learning Challenge</a> focused on <strong>Spatio-temporal Anomaly Detection</strong>. We are excited to host our upcoming <a href="https://indico.cern.ch/event/1364455/" class="event-link">Workshop in September 2024</a> and look forward to your participation.</p>
+  <ul class="event-list">
+    <li>We are in the process of releasing our <a href="https://www.nsfhdr.org/mlchallenge" class="event-link">Pan-HDR Machine Learning Challenge</a> focused on <strong>Spatio-temporal Anomaly Detection</strong>. We are excited to host our upcoming <a href="https://indico.cern.ch/event/1364455/" class="event-link">Workshop in September 2024</a> and look forward to your participation.</li>
+  </ul>
 </div>

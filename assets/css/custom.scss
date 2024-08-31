@@ -117,7 +117,22 @@ body, html, #page-wrapper, .page__content, .page__inner-wrap, #main, .wrapper, .
     border-bottom: 1px solid #ddd;
     color: #333;
   }
+  .event-list {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin: 0;
 
+    li {
+      margin-bottom: 10px;
+      font-size: 0.95em;
+      line-height: 1.5;
+      color: #444;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
   p {
     margin: 0;
     padding: 0;

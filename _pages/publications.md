@@ -11,12 +11,12 @@ author_profile: true
     <li class="paper">
       <span class="title">Towards <b>Kriging</b>-informed <b>Conditional Diffusion</b> for Regional Sea-Level Data <b>Downscaling</b>.</span>
       <span class="authors"><ins>Subhankar Ghosh</ins>, Arun Sharma, Jayant Gupta, Aneesh Subramanian, Shashi Shekhar.</span>
-      <span class="venue">In 32nd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2024).</span>
+      <span class="venue">In 32nd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2024). <a href="https://sigspatial2024.sigspatial.org/accepted-papers/#research" class="paper-link">Paper</a></span>
     </li>
     <li class="paper">
       <span class="title">Towards Statistically Significant Taxonomy Aware Co-location <b>Pattern Detection</b>.</span>
       <span class="authors"><ins>Subhankar Ghosh</ins>, Arun Sharma, Jayant Gupta, Shashi Shekhar.</span>
-      <span class="venue">In 16th Conference on Spatial Information Theory (COSIT), 2024. (Oral Short <a href="https://arxiv.org/abs/2407.00317" class="paper-link">Paper</a>)</span>
+      <span class="venue">In 16th Conference on Spatial Information Theory (COSIT), 2024. (Oral Short <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.COSIT.2024.25" class="paper-link">Paper</a>)</span>
     </li>
     <li class="paper">
       <span class="title">Physics-based Abnormal <b>Trajectory</b> Gap Detection.</span>

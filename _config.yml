@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Subhankar Ghosh"
   avatar           : "S-Ghosh-BW-thumbnail-300x297.png"
-  bio              : "Computer Science PhD candidate at University of Minnesota, Twin Cities"
+  bio              : "Computer Science Ph.D. candidate at University of Minnesota, Twin Cities"
   location         : "Minneapolis, Minnesota"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=7cz_zncAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : gsh(first_name_lower_case)@gmail.com
+  email            : gshsubhankar@gmail.com
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :

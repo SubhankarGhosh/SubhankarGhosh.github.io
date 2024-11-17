@@ -11,7 +11,7 @@ author_profile: true
     <li class="paper">
       <span class="title">Towards <b>Kriging</b>-informed <b>Conditional Diffusion</b> for Regional Sea-Level Data <b>Downscaling</b>.</span>
       <span class="authors"><ins>Subhankar Ghosh</ins>, Arun Sharma, Jayant Gupta, Aneesh Subramanian, Shashi Shekhar.</span>
-      <span class="venue">In 32nd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2024). <a href="https://sigspatial2024.sigspatial.org/accepted-papers/#research" class="paper-link">Paper</a></span>
+      <span class="venue">In 32nd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2024). <a href="https://arxiv.org/pdf/2410.15628" class="paper-link">Paper</a></span>
     </li>
     <li class="paper">
       <span class="title">Towards Statistically Significant Taxonomy Aware Co-location <b>Pattern Detection</b>.</span>

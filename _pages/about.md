@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="intro-section">
   <h2 class="intro-heading custom-intro">Hi there! I'm Subhankar</h2>
-  <p class="highlight" style="font-size: 0.9em;">I'm a <strong>Computer Science Ph.D. candidate</strong> at the <strong>University of Minnesota, Twin Cities</strong>.</p>
+  <p class="highlight">I'm a <strong>Computer Science Ph.D. candidate</strong> at the <strong>University of Minnesota, Twin Cities</strong>.</p>
 </div>
 
 <div class="advisors-work-section">

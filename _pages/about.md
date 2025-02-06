@@ -44,6 +44,14 @@ redirect_from:
 <div class="upcoming-section">
   <h2 class="section-title">Upcoming Events</h2>
   <ul class="event-list">
+    <li>I will join Oakridge National Laboratory (ORNL) as a Research Intern in Spring 2025 (March-May).</li>
+    <li>I will join Amazon (Bellevue, WA) as an Applied Scientist Intern in Summer 2025.</li>
+  </ul>
+</div>
+
+<div class="previous-section">
+  <h2 class="section-title">Previous Events</h2>
+  <ul class="event-list">
     <li>We are in the process of releasing our <a href="https://www.nsfhdr.org/mlchallenge" class="event-link">Pan-HDR Machine Learning Challenge</a> focused on <strong>Spatio-temporal Anomaly Detection</strong>. We are excited to host our upcoming <a href="https://indico.cern.ch/event/1364455/" class="event-link">Workshop in September 2024</a> and look forward to your participation.</li>
   </ul>
 </div>

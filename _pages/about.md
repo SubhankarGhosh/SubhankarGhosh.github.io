@@ -32,11 +32,6 @@ redirect_from:
   </ul>
 </div>
 
-<div class="past-work">
-  <h2 class="section-title">Past Work</h2>
-  <p>In the recent past, I have worked on spatial <strong>pattern mining</strong> such as regional co-location patterns, taxonomy-aware co-location patterns, and <strong>statistical techniques</strong> to reduce false discoveries in the pattern detection process.</p>
-</div>
-
 <div class="upcoming-section">
   <h2 class="section-title">Upcoming Events</h2>
   <ul class="event-list">
@@ -44,11 +39,24 @@ redirect_from:
     <li>I will join <strong>Amazon</strong> (Bellevue, WA) as an <strong>Applied Scientist Intern</strong> in Summer 2025.</li>
   </ul>
 </div>
-
+<!-- 
+<div class="past-work">
+  <h2 class="section-title">Past Work</h2>
+  <p>In the recent past, I have worked on spatial <strong>pattern mining</strong> such as regional co-location patterns, taxonomy-aware co-location patterns, and <strong>statistical techniques</strong> to reduce false discoveries in the pattern detection process.</p>
+</div>
 <div class="previous-section">
   <h2 class="section-title">Previous Events</h2>
   <ul class="event-list">
     <li>We released our <a href="https://www.nsfhdr.org/mlchallenge" class="event-link">Pan-HDR Machine Learning Challenge</a> focused on <strong>Spatio-temporal Anomaly Detection</strong> at <a href="https://indico.cern.ch/event/1364455/" class="event-link">2024 NSF HDR Ecosystem Conference</a>.</li>
+  </ul>
+</div> -->
+
+<div class="past-work">
+  <h2 class="section-title">Past Work and Events</h2>
+  <p>In the recent past, I have worked on spatial <strong>pattern mining</strong> such as regional co-location patterns, taxonomy-aware co-location patterns, and <strong>statistical techniques</strong> to reduce false discoveries in the pattern detection process.</p>
+  <ul class="event-list">
+    <li>We released our <a href="https://www.nsfhdr.org/mlchallenge" class="event-link">Pan-HDR Machine Learning Challenge</a> focused on <strong>Spatio-temporal Anomaly Detection</strong> at <a href="https://indico.cern.ch/event/1364455/" class="event-link">2024 NSF HDR Ecosystem Conference</a>.</li>
+    <li>I will join Oakridge National Laboratory (ORNL) as a Research Intern in Spring 2025 (March-May).</li>
   </ul>
 </div>
 

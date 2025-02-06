@@ -10,8 +10,8 @@ redirect_from:
 ---
 
 <div class="intro-section">
-  <h3 class="intro-heading custom-intro">Hi there! I'm Subhankar</h3>
-  <p class="highlight" style="font-size: 0.8em;">I'm a <strong>Computer Science Ph.D. candidate</strong> at the <strong>University of Minnesota, Twin Cities</strong>.</p>
+  <h2 class="intro-heading custom-intro">Hi there! I'm Subhankar</h2>
+  <p class="highlight" style="font-size: 0.9em;">I'm a <strong>Computer Science Ph.D. candidate</strong> at the <strong>University of Minnesota, Twin Cities</strong>.</p>
 </div>
 
 <div class="advisors-work-section">

@@ -10,8 +10,8 @@ redirect_from:
 ---
 
 <div class="intro-section">
-  <h2 class="intro-heading custom-intro">Hi there! I'm Subhankar</h2>
-  <p class="highlight">I'm a <strong>Computer Science Ph.D. candidate</strong> at the <strong>University of Minnesota, Twin Cities</strong>.</p>
+  <h3 class="intro-heading custom-intro">Hi there! I'm Subhankar</h3>
+  <p class="highlight" style="font-size: 0.8em;">I'm a <strong>Computer Science Ph.D. candidate</strong> at the <strong>University of Minnesota, Twin Cities</strong>.</p>
 </div>
 
 <div class="advisors-work-section">
@@ -21,11 +21,11 @@ redirect_from:
 
 <div class="project-section">
   <h2 class="section-title">Current Projects</h2>
-  <ul class="project-list">
-    <li><i class="fas fa-chart-line"></i> Spatial variability-aware downscaling of climate variables using <strong>Generative Models</strong></li>
-    <li><i class="fas fa-code-branch"></i> Adaptive Climate <strong>Model Combination</strong> strategies</li>
-    <li><i class="fas fa-exclamation-triangle"></i> Spatio-temporal <strong>Anomaly Detection</strong> in climate variables</li>
-    <li><i class="fas fa-search"></i> <strong>Causal discovery</strong> of factors influencing climate variables</li>
+  <ul class="project-list" style="margin: 0; padding: 0;">
+    <li style="margin-bottom: 5px;"><i class="fas fa-chart-line"></i> Spatial variability-aware downscaling of climate variables using <strong>Generative Models</strong></li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-code-branch"></i> Adaptive Climate <strong>Model Combination</strong> strategies</li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-exclamation-triangle"></i> Spatio-temporal <strong>Anomaly Detection</strong> in climate variables</li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-search"></i> <strong>Causal discovery</strong> of factors influencing climate variables</li>
   </ul>
 </div>
 

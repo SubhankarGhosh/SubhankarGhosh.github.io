@@ -44,8 +44,8 @@ redirect_from:
 <div class="upcoming-section">
   <h2 class="section-title">Upcoming Events</h2>
   <ul class="event-list">
-    <li>I will join Oakridge National Laboratory (ORNL) as a Research Intern in Spring 2025 (March-May).</li>
-    <li>I will join Amazon (Bellevue, WA) as an Applied Scientist Intern in Summer 2025.</li>
+    <li>I will join <strong>Oakridge National Laboratory</strong> as a <strong>Research Intern</strong> in Spring 2025 (March-May).</li>
+    <li>I will join <strong>Amazon</strong> (Bellevue, WA) as an <strong>Applied Scientist Intern</strong> in Summer 2025.</li>
   </ul>
 </div>
 

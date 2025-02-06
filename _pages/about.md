@@ -11,10 +11,10 @@ redirect_from:
 
 <div class="intro-section">
   <h2 class="intro-heading custom-intro">Hi there! I'm Subhankar</h2>
-  <p>I'm a <strong>Computer Science Ph.D. candidate</strong> at the <strong>University of Minnesota, Twin Cities</strong>.</p>
 </div>
 
 <div class="advisors-work-section">
+  <p>I'm a <strong>Computer Science Ph.D. candidate</strong> at the <strong>University of Minnesota, Twin Cities</strong>.</p>
   <p>I am advised by <a href="https://www-users.cse.umn.edu/~shekhar/" class="advisor-link">Professor Shashi Shekhar</a> and am a member of the <a href="http://www.spatial.cs.umn.edu/" class="group-link">Spatial Computing Research Group</a>. I also work with <a href="https://www.colorado.edu/atoc/aneesh-subramanian-hehimhis" class="advisor-link">Professor Aneesh Subramanian</a>.</p>
   <p>I am a Graduate Assistant at <a href="https://iharp.umbc.edu/people/" class="work-link">iHARP</a>, where we aim to reduce uncertainty in sea level rise predictions from ice sheet melt.</p>
 </div>

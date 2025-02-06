@@ -52,6 +52,6 @@ redirect_from:
 <div class="previous-section">
   <h2 class="section-title">Previous Events</h2>
   <ul class="event-list">
-    <li>We are in the process of releasing our <a href="https://www.nsfhdr.org/mlchallenge" class="event-link">Pan-HDR Machine Learning Challenge</a> focused on <strong>Spatio-temporal Anomaly Detection</strong>. We are excited to host our upcoming <a href="https://indico.cern.ch/event/1364455/" class="event-link">Workshop in September 2024</a> and look forward to your participation.</li>
+    <li>We released our <a href="https://www.nsfhdr.org/mlchallenge" class="event-link">Pan-HDR Machine Learning Challenge</a> focused on <strong>Spatio-temporal Anomaly Detection</strong> at <a href="https://indico.cern.ch/event/1364455/" class="event-link">2024 NSF HDR Ecosystem Conference</a>.</li>
   </ul>
 </div>

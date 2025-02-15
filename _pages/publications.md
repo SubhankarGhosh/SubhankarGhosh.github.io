@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 <div class="publications">
+  <h2 class="year">2025</h2>
+  <ul class="paper-list">
+    <li class="paper">
+      <span class="title">Climate smart computing: A perspective</span>
+      <span class="authors">Mingzhou Yang, Bharat Jayaprakash, <ins>Subhankar Ghosh</ins>, Hyeonjung Tari Jung, Matthew Eagon, William F Northrop, Shashi Shekhar.</span>
+      <span class="venue">In Pervasive and Mobile Computing (2025). <a href="https://www.sciencedirect.com/science/article/pii/S1574119225000082" class="paper-link">Paper</a></span>
+    </li>
+  </ul>
+
   <h2 class="year">2024</h2>
   <ul class="paper-list">
     <li class="paper">

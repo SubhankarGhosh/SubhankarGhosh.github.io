@@ -33,7 +33,7 @@ redirect_from:
   <h2 class="section-title">Upcoming Events</h2>
   <ul class="event-list">
     <li>I will join <strong>Oakridge National Laboratory</strong> as a <strong>Research Intern</strong> in Spring 2025 (March-May).</li>
-    <li>I will join <strong>Amazon</strong> (Bellevue, WA) as an <strong>Applied Scientist Intern</strong> in Summer 2025.</li>
+    <!-- <li>I will join <strong>Amazon</strong> (Bellevue, WA) as an <strong>Applied Scientist Intern</strong> in Summer 2025.</li> -->
   </ul>
 </div>
 <!-- 

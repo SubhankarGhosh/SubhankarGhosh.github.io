@@ -11,7 +11,7 @@ author_profile: true
     <li class="paper">
       <span class="title">Climate smart computing: A perspective</span>
       <span class="authors">Mingzhou Yang, Bharat Jayaprakash, <ins>Subhankar Ghosh</ins>, Hyeonjung Tari Jung, Matthew Eagon, William F Northrop, Shashi Shekhar.</span>
-      <span class="venue">In Pervasive and Mobile Computing (2025). <a href="https://www.sciencedirect.com/science/article/pii/S1574119225000082" class="paper-link">Paper</a></span>
+      <span class="venue">In Pervasive and Mobile Computing (2025). <a href="https://www.sciencedirect.com/science/article/pii/S1574119225000082" class="paper-link">Paper</a>, <a href="https://authors.elsevier.com/c/1kbsH5bwSnFO2I" class="paper-link">Free Access</a></span>
     </li>
   </ul>
 

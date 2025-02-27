@@ -52,7 +52,7 @@ redirect_from:
   <h2 class="section-title">Past Work and Events</h2>
   <ul class="event-list">
     <li>Recently, I worked on spatial <strong>pattern mining</strong>, including regional and taxonomy-aware co-location patterns, and <strong>statistical techniques</strong> to reduce false discoveries.</li>
-    <li>Released the <a href="https://www.nsfhdr.org/mlchallenge" class="event-link">Pan-HDR Machine Learning Challenge</a> on <strong>Spatio-temporal Anomaly Detection</strong> at the <a href="https://indico.cern.ch/event/1364455/" class="event-link">2024 NSF HDR Ecosystem Conference</a>.</li>
+    <li>Released the <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/" class="event-link">Pan-HDR Machine Learning Challenge</a> on <strong>Spatio-temporal Anomaly Detection</strong> at the <a href="https://indico.cern.ch/event/1364455/" class="event-link">2024 NSF HDR Ecosystem Conference</a>.</li>
   </ul>
 </div>
 

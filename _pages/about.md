@@ -17,7 +17,7 @@ redirect_from:
   <p>I'm a <strong>Computer Science Ph.D. candidate</strong> at the <strong>University of Minnesota, Twin Cities</strong>.</p>
   <p>I am advised by <a href="https://www-users.cse.umn.edu/~shekhar/" class="advisor-link">Professor Shashi Shekhar</a> and am a member of the <a href="http://www.spatial.cs.umn.edu/" class="group-link">Spatial Computing Research Group</a>. I also work with <a href="https://www.colorado.edu/atoc/aneesh-subramanian-hehimhis" class="advisor-link">Professor Aneesh Subramanian</a>.</p>
   <p>I am a Graduate Assistant at <a href="https://iharp.umbc.edu/people/" class="work-link">iHARP</a>, where we aim to reduce uncertainty in sea level rise predictions from ice sheet melt.</p>
-  <p>I co-organized the <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/" class="event-link">2025 NSF HDR Machine Learning Challenge on Spatio-temporal Anomaly Detection</a>.</p>
+  <p>I co-organized the <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/" class="event-link">2025 NSF HDR Machine Learning Challenge on Anomaly Detection</a>.</p>
 </div>
 
 <div class="project-section">

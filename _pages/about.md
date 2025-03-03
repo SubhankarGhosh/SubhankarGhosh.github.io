@@ -18,7 +18,7 @@ redirect_from:
   <p>I am advised by <a href="https://www-users.cse.umn.edu/~shekhar/" class="advisor-link">Professor Shashi Shekhar</a> and am a member of the <a href="http://www.spatial.cs.umn.edu/" class="group-link">Spatial Computing Research Group</a>. I also work with <a href="https://www.colorado.edu/atoc/aneesh-subramanian-hehimhis" class="advisor-link">Professor Aneesh Subramanian</a>.</p>
   <p>I am a Graduate Assistant at <a href="https://iharp.umbc.edu/people/" class="work-link">iHARP</a>, where we aim to reduce uncertainty in sea level rise predictions from ice sheet melt.</p>
   <p>I co-organized the <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/" class="event-link">2025 NSF HDR Machine Learning Challenge on Anomaly Detection</a>.
-  Checkout our <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/aaai-workshop2024.html">AAAI Workshop on Anomaly Detection in Scientific Domains</a>.</p>
+  Checkout our <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/aaai-workshop2024.html" class="event-link">AAAI Workshop on Anomaly Detection in Scientific Domains</a>.</p>
 </div>
 
 <div class="project-section">

@@ -10,7 +10,7 @@ author_profile: true
   <ul class="paper-list">
   <li class="paper">
       <span class="title">Building Machine Learning Challenges for Anomaly Detection in Science</span>
-      <span class="authors">Elizabeth G. Campolongo, Yuan-Tang Chou, Ekaterina Govorkova, Wahid Bhimji, Wei-Lun Chao, Chris Harris, Shih-Chieh Hsu, Hilmar Lapp, Mark S. Neubauer, Josephine Namayanja, Aneesh Subramanian, Philip Harris, Advaith Anand, David E. Carlyn, Subhankar Ghosh, Christopher Lawrence, Eric Moreno, Ryan Raikman, Jiaman Wu, Ziheng Zhang.</span>
+      <span class="authors">Elizabeth G. Campolongo, Yuan-Tang Chou, Ekaterina Govorkova, Wahid Bhimji, Wei-Lun Chao, Chris Harris, Shih-Chieh Hsu, Hilmar Lapp, Mark S. Neubauer, Josephine Namayanja, Aneesh Subramanian, Philip Harris, Advaith Anand, David E. Carlyn, <ins>Subhankar Ghosh</ins>, Christopher Lawrence, Eric Moreno, Ryan Raikman, Jiaman Wu, Ziheng Zhang.</span>
       <span class="venue">Under Review (2025). <a href="https://arxiv.org/abs/2503.02112" class="paper-link">Paper</a></span>
     </li>
     <li class="paper">

@@ -19,7 +19,15 @@ redirect_from:
   <p>I am a Graduate Assistant at <a href="https://iharp.umbc.edu/people/" class="work-link">iHARP</a>, where we aim to reduce uncertainty in sea level rise predictions from ice sheet melt.</p>
   <p>I co-organized the <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/" class="event-link">2025 NSF HDR Machine Learning Challenge on Anomaly Detection</a>.<br>  
   <a href="https://arxiv.org/abs/2503.02112" class="work-link">Pre-print</a> of the paper describing the Anomaly Detection Challenge.<br>
-  Checkout our <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/aaai-workshop2024.html" class="event-link">AAAI Workshop on Anomaly Detection in Scientific Domains</a>.</p>
+  Check out our <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/aaai-workshop2024.html" class="event-link">AAAI Workshop on Anomaly Detection in Scientific Domains</a>.</p>
+</div>
+
+<div class="upcoming-section">
+  <h2 class="section-title">Upcoming Events</h2>
+  <ul class="event-list">
+    <li>I will join <strong>Oakridge National Laboratory</strong> as a <strong>Research Intern</strong> in Spring 2025. <br> I am excited to be working on Diffusion models for forecasting.</li>
+    <li>I will join <strong>Amazon</strong> (Bellevue, WA) as an <strong>Applied Scientist Intern</strong> in Summer 2025.</li>
+  </ul>
 </div>
 
 <div class="project-section">
@@ -32,13 +40,6 @@ redirect_from:
   </ul>
 </div>
 
-<div class="upcoming-section">
-  <h2 class="section-title">Upcoming Events</h2>
-  <ul class="event-list">
-    <li>I will join <strong>Oakridge National Laboratory</strong> as a <strong>Research Intern</strong> in Spring 2025. <br> I am excited to be working on Diffusion models for forecasting.</li>
-    <li>I will join <strong>Amazon</strong> (Bellevue, WA) as an <strong>Applied Scientist Intern</strong> in Summer 2025.</li>
-  </ul>
-</div>
 <!-- 
 <div class="past-work">
   <h2 class="section-title">Past Work</h2>

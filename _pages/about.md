@@ -19,7 +19,7 @@ redirect_from:
   <p>I am a Graduate Assistant at <a href="https://iharp.umbc.edu/people/" class="work-link">iHARP</a>, where we aim to reduce uncertainty in sea level rise predictions from ice sheet melt.</p>
   <p>I co-organized the <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/" class="event-link">2025 NSF HDR Machine Learning Challenge on Anomaly Detection</a>.<br>  
   <a href="https://arxiv.org/abs/2503.02112" class="work-link">Pre-print</a> of the paper describing the Anomaly Detection Challenge.<br>
-  Checkout our <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/aaai-workshop2024.html" class="event-link">AAAI Workshop on Anomaly Detection in Scientific Domains</a></p>
+  Checkout our <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/aaai-workshop2024.html" class="event-link">AAAI Workshop on Anomaly Detection in Scientific Domains</a>.</p>
 </div>
 
 <div class="project-section">

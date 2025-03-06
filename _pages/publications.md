@@ -8,6 +8,11 @@ author_profile: true
 <div class="publications">
   <h2 class="year">2025</h2>
   <ul class="paper-list">
+  <li class="paper">
+      <span class="title">Building Machine Learning Challenges for Anomaly Detection in Science</span>
+      <!-- <span class="authors">Mingzhou Yang, Bharat Jayaprakash, <ins>Subhankar Ghosh</ins>, Hyeonjung Tari Jung, Matthew Eagon, William F Northrop, Shashi Shekhar.</span> -->
+      <span class="venue">Under Review (2025). <a href="https://arxiv.org/abs/2503.02112" class="paper-link">Paper</a></span>
+    </li>
     <li class="paper">
       <span class="title">Climate smart computing: A perspective</span>
       <span class="authors">Mingzhou Yang, Bharat Jayaprakash, <ins>Subhankar Ghosh</ins>, Hyeonjung Tari Jung, Matthew Eagon, William F Northrop, Shashi Shekhar.</span>

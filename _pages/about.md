@@ -15,7 +15,7 @@ redirect_from:
 
 <div class="advisors-work-section">
   
-  <p>I'm an <strong>Applied Scientist intern</strong> at <strong>Amazon</strong> (Bellevue, WA) working on <strong>Generative AI</strong> and <strong>Multimodal Fusion</strong> for <strong>Anomaly detection</strong> in Geospatial applications.</p>
+  <p>I'm an <strong>Applied Scientist Intern</strong> at <strong>Amazon</strong> (Bellevue, WA), developing <strong>Generative AI</strong> and <strong>Multimodal Fusion</strong> methods for Geospatial <strong>Anomaly Detection</strong>.</p>
 
   <p>I'm also a <strong>Computer Science Ph.D. candidate</strong> at the <strong>University of Minnesota, Twin Cities</strong>.</p>
   <p>I am advised by <a href="https://www-users.cse.umn.edu/~shekhar/" class="advisor-link">Professor Shashi Shekhar</a> and am a member of the <a href="http://www.spatial.cs.umn.edu/" class="group-link">Spatial Computing Research Group</a>. I also work with <a href="https://www.colorado.edu/atoc/aneesh-subramanian-hehimhis" class="advisor-link">Professor Aneesh Subramanian</a>.</p>

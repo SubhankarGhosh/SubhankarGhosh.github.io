@@ -33,8 +33,8 @@ redirect_from:
   <h2 class="section-title">Past Work and Events</h2>
   <ul class="event-list">
     <li>I was a <strong>Research Intern</strong> at the <a href="https://www.ornl.gov/">Oak Ridge National Laboratory</a> in Spring 2025. I worked with Vision Transformers and Diffusion models for Super-resolution tasks.</li>
-    <li>I co-organized the <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/" class="event-link">2025 NSF HDR Machine Learning Challenge on Anomaly Detection</a>. <a href="https://arxiv.org/abs/2503.02112" class="work-link">Pre-print</a> of the paper describing the Anomaly Detection Challenge is out now. Check out our <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/aaai-workshop2024.html" class="event-link">AAAI Workshop on Anomaly Detection in Scientific Domains</a>.
-  <li>Recently, I worked on spatial <strong>pattern mining</strong>, including regional and taxonomy-aware co-location patterns with <strong>statistical guarantees</strong>.</li>
+    <li>I co-organized the <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/" class="event-link">2025 NSF HDR Machine Learning Challenge on Anomaly Detection</a>. <a href="https://arxiv.org/abs/2503.02112" class="work-link">Pre-print</a> of the paper describing the Anomaly Detection Challenge is out now. Check out our <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/aaai-workshop2024.html" class="event-link">AAAI Workshop on Anomaly Detection in Scientific Domains</a>.</li>
+    <li>Recently, I worked on spatial <strong>pattern mining</strong>, including regional and taxonomy-aware co-location patterns with <strong>statistical guarantees</strong>.</li>
   </ul>
 </div>
 
@@ -47,19 +47,6 @@ redirect_from:
     <li style="margin-bottom: 5px;"><i class="fas fa-search"></i> <strong>Causal discovery</strong> of factors influencing climate variables</li>
   </ul>
 </div>
-
-<!-- 
-<div class="past-work">
-  <h2 class="section-title">Past Work</h2>
-  <p>In the recent past, I have worked on spatial <strong>pattern mining</strong> such as regional co-location patterns, taxonomy-aware co-location patterns, and <strong>statistical techniques</strong> to reduce false discoveries in the pattern detection process.</p>
-</div>
-<div class="previous-section">
-  <h2 class="section-title">Previous Events</h2>
-  <ul class="event-list">
-    <li>We released our <a href="https://www.nsfhdr.org/mlchallenge" class="event-link">Pan-HDR Machine Learning Challenge</a> focused on <strong>Spatio-temporal Anomaly Detection</strong> at <a href="https://indico.cern.ch/event/1364455/" class="event-link">2024 NSF HDR Ecosystem Conference</a>.</li>
-  </ul>
-</div> -->
-
 
 <div class="cta-section left-aligned">
   <a href="{{ site.author.resume }}" class="btn btn--info">View My Resume</a>

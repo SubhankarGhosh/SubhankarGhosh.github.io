@@ -15,7 +15,7 @@ redirect_from:
 
 <div class="advisors-work-section">
   
-  <p>I'm an <strong>Applied Scientist intern</strong> at <strong>Amazon (Bellevue, WA)</strong> working on Generative AI and Multimodal Fusion for Anomaly detection in Geospatial applications.</p>
+  <p>I'm an <strong>Applied Scientist intern</strong> at <strong>Amazon</strong> (Bellevue, WA) working on <strong>Generative AI</strong> and <strong>Multimodal Fusion</strong> for <strong>Anomaly detection</strong> in Geospatial applications.</p>
 
   <p>I'm also a <strong>Computer Science Ph.D. candidate</strong> at the <strong>University of Minnesota, Twin Cities</strong>.</p>
   <p>I am advised by <a href="https://www-users.cse.umn.edu/~shekhar/" class="advisor-link">Professor Shashi Shekhar</a> and am a member of the <a href="http://www.spatial.cs.umn.edu/" class="group-link">Spatial Computing Research Group</a>. I also work with <a href="https://www.colorado.edu/atoc/aneesh-subramanian-hehimhis" class="advisor-link">Professor Aneesh Subramanian</a>.</p>
@@ -32,10 +32,9 @@ redirect_from:
 <div class="past-work">
   <h2 class="section-title">Past Work and Events</h2>
   <ul class="event-list">
-    <li>I was a <strong>Research Intern</strong> at the <strong>Oakridge National Laboratory (TN)</strong> in Spring 2025. I worked with Vision Transformers and Diffusion models for Super-resolution tasks.</li>
-    <li>I co-organized the <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/" class="event-link">2025 NSF HDR Machine Learning Challenge on Anomaly Detection</a>. <a href="https://arxiv.org/abs/2503.02112" class="work-link">Pre-print</a> of the paper describing the Anomaly Detection Challenge is out now.<br>
-  Check out our <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/aaai-workshop2024.html" class="event-link">AAAI Workshop on Anomaly Detection in Scientific Domains</a>.
-  <li>Recently, I worked on spatial <strong>pattern mining</strong>, including regional and taxonomy-aware co-location patterns, and <strong>statistical techniques</strong> to reduce false discoveries.</li>
+    <li>I was a <strong>Research Intern</strong> at the <a href="https://www.ornl.gov/">Oak Ridge National Laboratory</a> in Spring 2025. I worked with Vision Transformers and Diffusion models for Super-resolution tasks.</li>
+    <li>I co-organized the <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/" class="event-link">2025 NSF HDR Machine Learning Challenge on Anomaly Detection</a>. <a href="https://arxiv.org/abs/2503.02112" class="work-link">Pre-print</a> of the paper describing the Anomaly Detection Challenge is out now. Check out our <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/aaai-workshop2024.html" class="event-link">AAAI Workshop on Anomaly Detection in Scientific Domains</a>.
+  <li>Recently, I worked on spatial <strong>pattern mining</strong>, including regional and taxonomy-aware co-location patterns with <strong>statistical guarantees</strong>.</li>
   </ul>
 </div>
 

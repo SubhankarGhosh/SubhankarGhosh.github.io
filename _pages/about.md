@@ -25,7 +25,7 @@ redirect_from:
 <div class="upcoming-section">
   <h2 class="section-title">Upcoming Events</h2>
   <ul class="event-list">
-    <li>I am a <strong>Student Organizer</strong> for the <a href="https://www.nsfhdr.org/mlchallenge-y2" class="event-link">Scientific Modeling out of distribution (Scientific-Mood) ML Challenge</a> and workshop.</li>
+    <li>I am excited to be a <strong>Student Organizer</strong> for the <a href="https://www.nsfhdr.org/mlchallenge-y2" class="event-link">Scientific Modeling out of distribution (Scientific-Mood) ML Challenge</a> and workshop.</li>
   </ul>
 </div>
 

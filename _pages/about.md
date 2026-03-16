@@ -30,7 +30,7 @@ redirect_from:
   <h2 class="section-title">Past Work and Events</h2>
   <ul class="event-list">
     <li>I was an <strong>Applied Scientist Intern</strong> at <strong>Amazon</strong> (Bellevue, WA) during <strong>Summer 2025</strong>, where I developed <strong>Generative AI</strong> and <strong>Multimodal Fusion</strong> methods for <strong>Anomaly Detection</strong> in the <a href="https://www.amazon.science/" class="group-link">Amazon Science</a> Geospatial Team.</li>
-    <li>I was a <strong>Research Intern</strong> at the <a href="https://www.ornl.gov/">Oak Ridge National Laboratory</a> in Spring 2025. I worked with Vision Transformers and Diffusion models for Super-resolution tasks.</li>
+    <li>I was a <strong>Research Intern</strong> at the <a href="https://www.ornl.gov/">Oak Ridge National Laboratory</a> during Spring 2025, where I worked with <strong>Vision Transformers</strong> and <strong>Diffusion Models</strong> for <strong>Super-resolution</strong> tasks.</li>
     <li>I was a <strong>Student Organizer</strong> for the <a href="https://www.nsfhdr.org/mlchallenge-y2" class="event-link">Scientific Modeling out of distribution (Scientific-Mood) ML Challenge</a> and workshop.</li>
     <li>I co-organized the <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/" class="event-link">2025 NSF HDR Machine Learning Challenge on <strong>Anomaly Detection</strong></a>. <a href="https://arxiv.org/abs/2503.02112" class="work-link">Pre-print</a> of the paper describing the <strong>Anomaly Detection</strong> Challenge is out now. Check out our <a href="https://hdr-ecosystem.github.io/hdr-ad-challenge-webpage/aaai-workshop2024.html" class="event-link">AAAI Workshop on <strong>Anomaly Detection</strong> in Scientific Domains</a>.</li>
     <li>Recently, I worked on spatial <strong>pattern mining</strong>, including regional and taxonomy-aware co-location patterns with <strong>statistical guarantees</strong>.</li>
@@ -38,12 +38,12 @@ redirect_from:
 </div>
 
 <div class="project-section">
-  <h2 class="section-title">Ph.D. thesis Projects</h2>
+  <h2 class="section-title">Current Projects</h2>
   <ul class="project-list" style="margin: 0; padding: 0;">
-    <li style="margin-bottom: 5px;"><i class="fas fa-chart-line"></i> Spatial variability-aware downscaling of climate variables using <strong>Generative Models</strong></li>
-    <li style="margin-bottom: 5px;"><i class="fas fa-code-branch"></i> Adaptive Climate <strong>Model Fusion</strong> strategies</li>
-    <li style="margin-bottom: 5px;"><i class="fas fa-exclamation-triangle"></i> Spatio-temporal <strong>Anomaly Detection</strong> in climate variables</li>
-    <li style="margin-bottom: 5px;"><i class="fas fa-search"></i> <strong>Causal discovery</strong> of factors influencing climate variables</li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-chart-line"></i> Spatial variability-aware <strong>super-resolution</strong> of <strong>geospatial variables</strong> using <strong>Generative Models</strong></li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-code-branch"></i> Adaptive <strong>Geospatial Model Fusion</strong> strategies</li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-exclamation-triangle"></i> Spatio-temporal <strong>Anomaly Detection</strong> in geospatial variables</li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-search"></i> <strong>Causal Discovery</strong> of factors influencing geospatial variables</li>
   </ul>
 </div>
 

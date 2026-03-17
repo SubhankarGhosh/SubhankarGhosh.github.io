@@ -40,9 +40,13 @@ redirect_from:
 <div class="project-section">
   <h2 class="section-title">Current Projects</h2>
   <ul class="project-list" style="margin: 0; padding: 0;">
-    <li style="margin-bottom: 5px;"><i class="fas fa-chart-line"></i> Spatially-aware <strong>forecasting</strong> of <strong>geospatial variables</strong> using <strong>Generative Models</strong></li>
-    <li style="margin-bottom: 5px;"><i class="fas fa-code-branch"></i> Adaptive <strong>Geospatial Model Fusion</strong> strategies</li>
-    <li style="margin-bottom: 5px;"><i class="fas fa-exclamation-triangle"></i> Spatio-temporal <strong>Anomaly Detection</strong> in geospatial variables</li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-chart-line"></i> <strong>Spatio-temporal modeling</strong> and forecasting using <strong>Generative AI</strong></li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-code-branch"></i> Adaptive <strong>Multimodal Data Fusion</strong> and integration strategies</li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-exclamation-triangle"></i> Scalable <strong>Anomaly Detection</strong> and pattern discovery for complex systems</li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-robot"></i> <strong>Multimodal recommendation agents</strong> using <strong>Vision-Language Models (VLMs)</strong></li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-desktop"></i> <strong>Autonomous agents</strong> for complex reasoning, planning, and <strong>workflow automation</strong></li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-book"></i> <strong>Retrieval-Augmented Generation (RAG)</strong> pipelines for <strong>domain-specific knowledge grounding</strong></li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-microchip"></i> <strong>Model Quantization</strong> and efficiency optimization for <strong>Foundation Models</strong></li>
   </ul>
 </div>
 

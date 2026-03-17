@@ -40,10 +40,9 @@ redirect_from:
 <div class="project-section">
   <h2 class="section-title">Current Projects</h2>
   <ul class="project-list" style="margin: 0; padding: 0;">
-    <li style="margin-bottom: 5px;"><i class="fas fa-chart-line"></i> Spatial variability-aware <strong>super-resolution</strong> of <strong>geospatial variables</strong> using <strong>Generative Models</strong></li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-chart-line"></i> Spatially-aware <strong>forecasting</strong> of <strong>geospatial variables</strong> using <strong>Generative Models</strong></li>
     <li style="margin-bottom: 5px;"><i class="fas fa-code-branch"></i> Adaptive <strong>Geospatial Model Fusion</strong> strategies</li>
     <li style="margin-bottom: 5px;"><i class="fas fa-exclamation-triangle"></i> Spatio-temporal <strong>Anomaly Detection</strong> in geospatial variables</li>
-    <li style="margin-bottom: 5px;"><i class="fas fa-search"></i> <strong>Causal Discovery</strong> of factors influencing geospatial variables</li>
   </ul>
 </div>
 

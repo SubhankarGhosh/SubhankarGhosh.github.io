@@ -23,7 +23,7 @@ redirect_from:
 <div class="upcoming-section">
   <h2 class="section-title">Upcoming Events</h2>
   <ul class="event-list">
-    <li>I will be joining <strong>Amazon Science</strong> (Seattle, WA) as an <strong>Applied Scientist II Intern</strong> during Summer 2026, where I will be working on <strong>Generative AI</strong> and <strong>LLM</strong> based methods for <strong>Fraud detection</strong>.</li>
+    <li>I will be joining <strong>Amazon Science</strong> (Seattle, WA) as an <strong>Applied Scientist II Intern</strong> during Summer 2026, where I will be working on <strong>Generative AI</strong> and <strong>LLM-based</strong> methods for <strong>Fraud Detection</strong>.</li>
   </ul>
 </div>
 

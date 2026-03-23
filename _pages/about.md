@@ -50,7 +50,3 @@ redirect_from:
     <li style="margin-bottom: 5px;"><i class="fas fa-microchip"></i> <strong>Model Quantization</strong> and efficiency optimization for <strong>Foundation Models</strong></li>
   </ul>
 </div>
-
-<div class="cta-section left-aligned">
-  <a href="{{ site.author.resume }}" class="btn btn--info">View My CV</a>
-</div>

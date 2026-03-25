@@ -22,6 +22,20 @@ redirect_from:
     vertical-align: middle;
     border: 1px solid #e2e8f0;
   }
+  .project-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  .project-list li {
+    padding-left: 2em;
+    text-indent: -2em;
+    margin-bottom: 8px;
+  }
+  .project-list li i {
+    width: 2em;
+    text-align: center;
+  }
 </style>
 
 <div class="intro-section">
@@ -55,13 +69,13 @@ redirect_from:
 
 <div class="project-section">
   <h2 class="section-title">Current Projects</h2>
-  <ul class="project-list" style="margin: 0; padding: 0;">
-    <li style="margin-bottom: 5px;"><i class="fas fa-chart-line"></i> <strong>Spatio-temporal modeling:</strong> Forecasting using generative AI <span class="skill-badge">Generative AI</span></li>
-    <li style="margin-bottom: 5px;"><i class="fas fa-code-branch"></i> <strong>Adaptive data integration:</strong> Multimodal data fusion strategies <span class="skill-badge">Multimodal Fusion</span></li>
-    <li style="margin-bottom: 5px;"><i class="fas fa-exclamation-triangle"></i> <strong>Scalable pattern discovery:</strong> Anomaly detection for complex systems <span class="skill-badge">Anomaly Detection</span></li>
-    <li style="margin-bottom: 5px;"><i class="fas fa-robot"></i> <strong>Multimodal recommendation:</strong> Agents using vision-language models <span class="skill-badge">VLMs</span></li>
-    <li style="margin-bottom: 5px;"><i class="fas fa-desktop"></i> <strong>Autonomous agents:</strong> System design for complex reasoning, planning, and workflow automation <span class="skill-badge">Agents</span></li>
-    <li style="margin-bottom: 5px;"><i class="fas fa-book"></i> <strong>Knowledge grounding:</strong> Retrieval-Augmented Generation (RAG) pipelines <span class="skill-badge">RAG</span></li>
-    <li style="margin-bottom: 5px;"><i class="fas fa-microchip"></i> <strong>Model quantization:</strong> Efficiency optimization for foundation models <span class="skill-badge">Foundation Models</span></li>
+  <ul class="project-list">
+    <li><i class="fas fa-chart-line"></i> <strong>Spatio-temporal modeling:</strong> Forecasting using generative AI <span class="skill-badge">Generative AI</span></li>
+    <li><i class="fas fa-code-branch"></i> <strong>Adaptive data integration:</strong> Multimodal data fusion strategies <span class="skill-badge">Multimodal Fusion</span></li>
+    <li><i class="fas fa-exclamation-triangle"></i> <strong>Scalable pattern discovery:</strong> Anomaly detection for complex systems <span class="skill-badge">Anomaly Detection</span></li>
+    <li><i class="fas fa-robot"></i> <strong>Multimodal recommendation:</strong> Agents using vision-language models <span class="skill-badge">VLMs</span></li>
+    <li><i class="fas fa-desktop"></i> <strong>Autonomous agents:</strong> System design for complex reasoning, planning, and workflow automation <span class="skill-badge">Agents</span></li>
+    <li><i class="fas fa-book"></i> <strong>Knowledge grounding:</strong> Retrieval-Augmented Generation (RAG) pipelines <span class="skill-badge">RAG</span></li>
+    <li><i class="fas fa-microchip"></i> <strong>Model quantization:</strong> Efficiency optimization for foundation models <span class="skill-badge">Foundation Models</span></li>
   </ul>
 </div>

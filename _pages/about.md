@@ -28,12 +28,14 @@ redirect_from:
     margin: 0;
   }
   .project-list li {
+    position: relative;
     padding-left: 2em;
-    text-indent: -2em;
     margin-bottom: 8px;
   }
   .project-list li i {
-    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 0.25em;
     width: 2em;
     text-align: center;
   }

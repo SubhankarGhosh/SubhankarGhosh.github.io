@@ -33,6 +33,7 @@ redirect_from:
     margin-bottom: 8px;
   }
   .project-list li i {
+    display: inline-block;
     width: 2em;
     text-align: center;
   }

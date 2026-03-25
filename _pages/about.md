@@ -60,8 +60,8 @@ redirect_from:
     <li style="margin-bottom: 5px;"><i class="fas fa-code-branch"></i> <strong>Adaptive data integration:</strong> Multimodal data fusion strategies <span class="skill-badge">Multimodal Fusion</span></li>
     <li style="margin-bottom: 5px;"><i class="fas fa-exclamation-triangle"></i> <strong>Scalable pattern discovery:</strong> Anomaly detection for complex systems <span class="skill-badge">Anomaly Detection</span></li>
     <li style="margin-bottom: 5px;"><i class="fas fa-robot"></i> <strong>Multimodal recommendation:</strong> Agents using vision-language models <span class="skill-badge">VLMs</span></li>
-    <li style="margin-bottom: 5px;"><i class="fas fa-desktop"></i> <strong>Autonomous agents:</strong> System design for complex reasoning, planning, and workflow automation</li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-desktop"></i> <strong>Autonomous agents:</strong> System design for complex reasoning, planning, and workflow automation <span class="skill-badge">Agents</span></li>
     <li style="margin-bottom: 5px;"><i class="fas fa-book"></i> <strong>Knowledge grounding:</strong> Retrieval-Augmented Generation (RAG) pipelines <span class="skill-badge">RAG</span></li>
-    <li style="margin-bottom: 5px;"><i class="fas fa-microchip"></i> <strong>Model Quantization:</strong> Efficiency optimization for foundation models <span class="skill-badge">Foundation Models</span></li>
+    <li style="margin-bottom: 5px;"><i class="fas fa-microchip"></i> <strong>Model quantization:</strong> Efficiency optimization for foundation models <span class="skill-badge">Foundation Models</span></li>
   </ul>
 </div>

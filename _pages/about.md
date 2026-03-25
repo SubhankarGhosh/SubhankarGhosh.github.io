@@ -30,7 +30,7 @@ redirect_from:
 
 <div class="advisors-work-section">
   
-  <p>I'm a <strong>Computer Science Ph.D. candidate</strong> at the <strong>University of Minnesota, Twin Cities</strong>.</p>
+  <p>I am a <strong>Computer Science Ph.D. candidate</strong> at the <strong><a href="https://www.cs.umn.edu/" class="group-link">University of Minnesota, Twin Cities</a></strong>.</p>
   <p>I am advised by <a href="https://www-users.cse.umn.edu/~shekhar/" class="group-link">Professor Shashi Shekhar</a> and am a member of the <a href="http://www.spatial.cs.umn.edu/" class="group-link">Spatial Computing Research Group</a>. I also work with <a href="https://www.colorado.edu/atoc/aneesh-subramanian-hehimhis" class="group-link">Professor Aneesh Subramanian</a>.</p>
   <p>I am a Graduate Assistant at <a href="https://iharp.umbc.edu/people/" class="group-link">iHARP</a>, where we aim to reduce uncertainty in geospatial forecasting using generative and multimodal AI.</p>
 </div>

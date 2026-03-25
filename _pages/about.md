@@ -55,7 +55,7 @@ redirect_from:
 <div class="upcoming-section">
   <h2 class="section-title">Upcoming Events</h2>
   <ul class="event-list">
-    <li><strong>Applied Scientist II Intern, <a href="https://www.amazon.science/" class="group-link">Amazon Science</a> (Summer 2026):</strong> Joining the Seattle, WA team to work on generative AI and LLM-based methods for fraud detection. <span class="skill-badge">Generative AI</span><span class="skill-badge">LLMs</span><span class="skill-badge">Fraud Detection</span></li>
+    <li><strong>Applied Scientist II Intern, <a href="https://www.amazon.science/" class="group-link">Amazon Science</a> (Summer 2026):</strong> Joining the Seattle, WA team to work on generative AI and LLM-based methods for fraud detection. <span class="skill-badge">Generative AI</span><span class="skill-badge">LLMs</span><span class="skill-badge">Fraud Detection</span><span class="skill-badge">Agentic AI</span></li>
   </ul>
 </div>
 

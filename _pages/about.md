@@ -29,7 +29,7 @@ redirect_from:
   }
   .project-list li {
     position: relative;
-    padding-left: 2em;
+    padding-left: 2.5em;
     margin-bottom: 8px;
   }
   .project-list li i {

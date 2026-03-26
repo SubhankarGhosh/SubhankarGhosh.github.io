@@ -32,7 +32,8 @@ redirect_from:
     padding-left: 2.5em;
     margin-bottom: 8px;
   }
-  .project-list li i {
+  .project-list li i,
+  .project-list li svg {
     position: absolute;
     left: 0;
     top: 0.25em;

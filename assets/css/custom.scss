@@ -161,7 +161,12 @@ body, html, #page-wrapper, .page__content, .page__inner-wrap, #main, .wrapper, .
   }
 
   .section-title {
-    margin-bottom: 0.5em; // much tighter gap specifically inside the box
+    margin-bottom: 0 !important; // nuke relative margin
+  }
+
+  ul.event-list {
+    margin-top: 0.5em !important; // tiny, precise controlled gap beneath the line
+    padding-top: 0 !important;
   }
 
   p {

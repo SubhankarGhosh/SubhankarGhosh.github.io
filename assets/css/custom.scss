@@ -147,7 +147,7 @@ body, html, #page-wrapper, .page__content, .page__inner-wrap, #main, .wrapper, .
 // Updated Upcoming Events section
 .upcoming-section {
   background-color: #f8fafc;
-  padding: 1.5em;
+  padding: 1.2em; // Significantly tighter padding
   border-radius: 8px;
   margin: 2em 0;
   border: 1px solid #e2e8f0;
@@ -161,7 +161,7 @@ body, html, #page-wrapper, .page__content, .page__inner-wrap, #main, .wrapper, .
   }
 
   .section-title {
-    margin-bottom: 0.8em; // tighter gap specifically inside the box
+    margin-bottom: 0.5em; // much tighter gap specifically inside the box
   }
 
   p {

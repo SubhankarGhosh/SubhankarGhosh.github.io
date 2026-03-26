@@ -17,6 +17,10 @@ body, html, #page-wrapper, .page__content, .page__inner-wrap, #main, .wrapper, .
     margin-top: 0 !important;
     padding-top: 0 !important;
   }
+  
+  .page__title {
+    display: none !important;
+  }
 }
 
 // Intro section styling

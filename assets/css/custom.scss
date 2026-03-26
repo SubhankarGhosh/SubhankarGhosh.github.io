@@ -23,21 +23,34 @@ body, html, #page-wrapper, .page__content, .page__inner-wrap, #main, .wrapper, .
 .intro-section {
   margin-top: 0 !important;
   padding-top: 0 !important;
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
 
   h2.intro-heading.custom-intro {
     font-size: 1.8em !important;
-    font-weight: bold !important;
-    color: #333 !important;
+    font-weight: 700 !important;
+    color: #1a202c !important;
     margin-top: 0 !important;
-    margin-bottom: 0.5em !important;
+    margin-bottom: 0.2em !important;
     line-height: 1.2 !important;
     letter-spacing: -0.02em !important;
+    border-bottom: none !important;
   }
 
   .highlight {
     font-size: 1.2em;
     color: #4a4a4a;
+  }
+}
+
+// Intro Paragraph Typography
+.advisors-work-section {
+  margin-bottom: 3em;
+
+  p {
+    font-size: 1.05em;
+    line-height: 1.7;
+    color: #2d3748;
+    margin-bottom: 1.2em;
   }
 }
 
@@ -133,6 +146,18 @@ body, html, #page-wrapper, .page__content, .page__inner-wrap, #main, .wrapper, .
   border-radius: 8px;
   margin: 2em 0;
   border: 1px solid #e2e8f0;
+
+  & > :first-child {
+    margin-top: 0 !important;
+  }
+
+  & > :last-child {
+    margin-bottom: 0 !important;
+  }
+
+  .section-title {
+    margin-bottom: 0.8em; // tighter gap specifically inside the box
+  }
 
   p {
     margin: 0;

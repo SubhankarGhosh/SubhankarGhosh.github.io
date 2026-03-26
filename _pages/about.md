@@ -22,24 +22,7 @@ redirect_from:
     vertical-align: middle;
     border: 1px solid #e2e8f0;
   }
-  .project-list {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-  }
-  .project-list li {
-    position: relative;
-    padding-left: 2.5em;
-    margin-bottom: 8px;
-  }
-  .project-list li i,
-  .project-list li svg {
-    position: absolute;
-    left: 0;
-    top: 0.25em;
-    width: 2em;
-    text-align: center;
-  }
+
 </style>
 
 <div class="intro-section">
